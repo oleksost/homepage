@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://oleksost.github.io/homepage/sitemap.xml
